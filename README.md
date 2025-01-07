@@ -32,10 +32,10 @@ This assignment should prove that a student is able to:
 
 ## Standard requirements
 
-- [ ] Fork the project to your github account
-- [ ] Clone the project to your computer
-- [ ] Open the project in VSCode with `code <cloned_repo_folder_name>`
-- [ ] **This Assignment is NOT tested. You can use alll the desired creativity!**
+- [x] Fork the project to your github account
+- [x] Clone the project to your computer
+- [x] Open the project in VSCode with `code <cloned_repo_folder_name>`
+- [x] **This Assignment is NOT tested. You can use alll the desired creativity!**
 - [ ] All the tasks of the "Specific requirements" section MUST be solved
 - [ ] **The project's file/folder structure should NOT be edited!**
 - [ ] **The index.html file should NOT be edited!** The only acceptable change are additional classes added to elements.
@@ -94,4 +94,4 @@ This assignment should prove that a student is able to:
   ```
 
 - [ ] The HTML document should NOT have inline styles.
-- [ ] There are 3 Google Fonts connected to the project. Find and connect 3 more random fonts from Google fonts. Feel free to use [this article](https://www.webdesignerdepot.com/2021/09/21-exceptional-google-fonts-you-probably-havent-discovered-yet/) or the [Google Fonts](https://fonts.google.com/) platform for the fonts inspiration.
+- [x] There are 3 Google Fonts connected to the project. Find and connect 3 more random fonts from Google fonts. Feel free to use [this article](https://www.webdesignerdepot.com/2021/09/21-exceptional-google-fonts-you-probably-havent-discovered-yet/) or the [Google Fonts](https://fonts.google.com/) platform for the fonts inspiration.
